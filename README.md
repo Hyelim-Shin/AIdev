@@ -1,0 +1,2 @@
+# AIdev
+For AIprogramming lecture
